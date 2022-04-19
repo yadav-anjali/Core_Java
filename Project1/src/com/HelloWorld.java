@@ -8,7 +8,7 @@ public class HelloWorld {
 	
 	public static void main(String[] args)
 	{
-		System.out.println("Helloo Woorldd");
+		
 		
 		
 		System.out.println(HelloWorld.num1 + HelloWorld.num2);

@@ -1,4 +1,4 @@
-package core_java_project;
+package core_java;
 
 import java.util.Scanner;
 
@@ -1672,8 +1672,4 @@ public class Project {
 			default: throw new InvalidInput();
 		}
 	}
-}package core_java_project;
-
-public class Project {
-
 }
